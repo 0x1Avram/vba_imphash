@@ -141,7 +141,6 @@ BFD58B7D1017D89586F7582891DB297B5F75FA867AE282B6ED7329B168895BFA       question,
 
 Output from running `vba_imphash.py 2020-07-20-Word-docs-with-macros-for-IcedID-12-examples/`
 ```
-
 Computing import hash for OOXML office file 2020-07-20-Word-docs-with-macros-for-IcedID-12-examples/charge_07.20.doc.
 	[PCODEDMP] All Identifiers = ['Word', 'VBA', 'Win16', 'Win32', 'Win64', 'Mac', 'VBA6', 'VBA7', 'Project1', 'stdole', 'Project', 'ThisDocument', '_Evaluate', 'Normal', 'Office', 'Document', 'Module1', 'nb', 'q2', 'Hx', 'autoopen', 'Lr', 'ActiveDocument', 'CustomXMLParts', 'Count', 'SelectNodes', 'ChildNodes', 'frm', 'download', 'Shell', 'wu', 'bn', 'nb1', 'e4', 'e', 'URLDownloadToFile', 'Cd', 'fa', 'g3', 'co', 'Cm', 'urlmon', 'UserForm1', 'MSForms', 'UserForm', 'url', 'file'].
 File 2020-07-20-Word-docs-with-macros-for-IcedID-12-examples/charge_07.20.doc has the vba imphash 87f2efdb7d55c3e43c83352b2b4e0def from the identifiers ['Win16', 'Win32', 'Win64', 'Mac', 'VBA6', 'VBA7', 'Project', 'Normal', 'autoopen', 'ActiveDocument', 'CustomXMLParts', 'Count', 'SelectNodes', 'ChildNodes', 'Shell', 'URLDownloadToFile', 'MSForms', 'UserForm', 'url', 'file'].
