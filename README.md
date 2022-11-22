@@ -212,7 +212,7 @@ Example from Ubuntu using apt package manager:
 sudo apt update
 sudo apt install p7zip-full
 ```
-After this you need to be able to run the '7z' command from the terminal.
+After this step you need to be able to run the '7z' command from the terminal.
 
 2) Clone project
 ```
@@ -227,10 +227,10 @@ pip install -r requirements.txt
 **b) Windows**
 1) Install 7z
 
-2) Add the installed 7z to Path environment variable
+2) Add the installed 7z to 'Path' environment variable.
 
 By default 7z gets installed in "C:\Program Files\7-Zip\7z.exe".
-After this you need to be able to run the '7z' command from cmd.
+After this step you need to be able to run the '7z' command from cmd.
 
 3) Clone project
 ```
