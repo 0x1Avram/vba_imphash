@@ -1,5 +1,8 @@
 # VBA-imphash
-Blue team tool/POC for Office files using VBA code with useful for detection, clustering, hunting, forensics(?).
+Imphash equivalent for Office files containing VBA macros. 
+The Python tool can hash and cluster Office files based on the calculated VBA import hashes. 
+The hash is calculated based on the order in which import identifiers are stored in an undocumented Office cache found in Office files with VBA macros. The identifiers are stored following the chronological order in which they were added to the VBA project and, in some cases, the identifiers are kept in the cache even if they are deleted from the VBA project.
+The tool or its inner workings could be used for clustering, detection, hunting and potentially forensics.
 
 
 ## How it works
