@@ -59,7 +59,7 @@ If a developer copy and pastes this code into a document via the VBA editor offe
 ```
 ['Word', 'VBA', 'Win16', 'Win32', 'Win64', 'Mac', 'VBA6', 'VBA7', 'Project1', 'stdole', 'Project', 'ThisDocument', '_Evaluate', 'Normal', 'Office', 'subnr1', 'Document', 'MyHex', 'Hex', 'subnr2', 'MyChar', 'Chr', 'f3', 'myOct', 'Oct', 'ShowFileInfo4', 'filespec', 'fs', 's', 'CreateObject', 'GetFile', 'DateCreated', 'MsgBox', 'AutoOpen', 'MyNumber', 'Asc']
 ```
-Notice that the above identifiers include built in functions, variable names, function names.
+Notice that the above identifiers include built in functions, variable names, function names and also that in the above list the identifiers order corresponds to the order in which they are found in the corresponding source code.
 
 Out of these identifiers and based on the predefined list from 'import_identifiers.json', the following identifiers are considered as "import related":
 ```
