@@ -206,7 +206,8 @@ Needs Python >= 3.6 as the code uses f-strings. I developed it with Python 3.10.
 
 **a) Linux**
 1) Install 7z
-On Ubuntu using apt package manager:
+
+Example from Ubuntu using apt package manager:
 ```
 sudo apt update
 sudo apt install p7zip-full
