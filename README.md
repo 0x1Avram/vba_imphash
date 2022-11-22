@@ -65,7 +65,7 @@ Out of these identifiers and based on the predefined list from 'import_identifie
 ```
 ['Win16', 'Win32', 'Win64', 'Mac', 'VBA6', 'VBA7', 'Project', 'Normal', 'Hex', 'Chr', 'Oct', 'CreateObject', 'GetFile', 'DateCreated', 'MsgBox', 'AutoOpen', 'Asc']
 ```
-In order to compute the vba_imphash the strings from the above list are concantenated via the '-' character and then md5 hashed, obtaining *db5e047c270a87c972dae71ef3fbadc1*.
+In order to compute the vba_imphash the strings from the above list are concantenated via the '-' character and then md5 hashed, obtaining the vba_imphash *db5e047c270a87c972dae71ef3fbadc1*.
 ```
 Win16-Win32-Win64-Mac-VBA6-VBA7-Project-Normal-Hex-Chr-Oct-CreateObject-GetFile-DateCreated-MsgBox-AutoOpen-Asc
 ```
